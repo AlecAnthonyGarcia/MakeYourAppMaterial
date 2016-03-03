@@ -22,4 +22,5 @@
     <color name="theme_primary_dark">#a3a1a1</color>
     <color name="theme_accent">#333030</color>
     <color name="drkgray">#6000</color>
+    <color name="article_byline">#8fff</color>
 </resources>
